@@ -5,3 +5,6 @@ The official repository for **BialJam 2016**. See the [official website](http://
 W tym roku uczestnicy konkursu sami proponują temat jamu, który zostanie wybrany spośród utworzonej puli w dniu rozpoczęcia. Każdy uczestnik podczas wypełniania formularza zgłoszeniowego może zaproponować temat; zgłaszane drużyny mogą zaproponować do 4 tematów. Przed game jamem będzie głosowanie na najlepsze tematy (ok. 5), z których następnie zostanie wylosowany temat ostateczny. Dotychczasowo zgłoszone tematy:
 
 - Czekamy na pierwsze propozycje!
+ 
+## Repozytoria drużyn
+Każdemu zgłoszonemu zespołowi tworzone jest osobne repozytorium, do którego uczestnicy otrzymują pełne prawa. Przed korzystaniem z repozytorium warto [sprawdzić oficjalny przykład](https://github.com/BialJam/example). Jeżeli nie masz uprawnień do repozytorium swojej drużyny albo chcesz założyć własne, [skontaktuj się z nami](http://bialjam.wi.pb.edu.pl/kontakt/).
