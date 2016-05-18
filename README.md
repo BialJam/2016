@@ -45,6 +45,10 @@ W tym roku uczestnicy konkursu sami proponują temat jamu, który zostanie wybra
 - ***KorpoWorld***
 - ***The Deadline***
 - ***Fear of Code***
+- ***Useless superpowers***
+- ***Back to the past***
+- ***I like trains***
+- ***Nothing***
 
 ## Repozytoria drużyn
 Każdemu zgłoszonemu zespołowi tworzone jest osobne repozytorium, do którego uczestnicy otrzymują pełne prawa. Przed korzystaniem z repozytorium warto [sprawdzić oficjalny przykład](https://github.com/BialJam/example). Jeżeli nie masz uprawnień do repozytorium swojej drużyny albo chcesz założyć własne, [skontaktuj się z nami](http://bialjam.wi.pb.edu.pl/kontakt/).
